@@ -29,8 +29,7 @@ Ensure you have the following installed:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/rbac-secured-ai-platform.git
-cd rbac-secured-ai-platform
+git clone https://github.com/aadilganigaie/RBAC-Secured-AI-Agent-Platform-using-FastAPI-PostgreSQL.git
 ```
 
 ### Create Virtual Environment
