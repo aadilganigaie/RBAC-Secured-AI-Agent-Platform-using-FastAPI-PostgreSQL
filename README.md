@@ -3,6 +3,9 @@
 ## Overview
 This repository contains a **Role-Based Access Control (RBAC) implementation** for securing AI agent interactions. Built with **FastAPI, PostgreSQL, and JWT authentication**, this platform ensures fine-grained access control, secure document processing, and AI-driven embeddings using open-source LLMs.
 
+![image](https://github.com/user-attachments/assets/1b2de021-7522-414c-98b2-6e2fe230d2e9)
+
+
 ## Features
 - **FastAPI Backend** for handling AI agent requests
 - **RBAC Enforcement** with Admin, User, and Guest roles
