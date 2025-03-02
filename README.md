@@ -26,7 +26,7 @@ This repository contains a **Role-Based Access Control (RBAC) implementation** f
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.9+
+- Python 3.11+
 - PostgreSQL with `pgvector`
 - Virtual environment (`venv`)
 
