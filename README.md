@@ -90,7 +90,7 @@ docker run -p 8000:8000 rbac-ai-agent
 This project is licensed under the MIT License.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Name](https://github.com/aadilganigaie)
 
 ## Contact
 For any issues or feature requests, create a GitHub issue.
