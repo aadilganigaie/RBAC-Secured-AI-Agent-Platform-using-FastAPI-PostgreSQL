@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg2-binary
+langchain
+langchain-community
+langchain-openai
+pgvector
+pydantic
+python-dotenv
+requests
+PyJWT
+passlib[bcrypt]
+python-multipart
